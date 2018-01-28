@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(156, 102, 91);
+  color: white;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  opacity: 0.5
+  /*background-image: url('https://s20.postimg.org/nim2z1tcd/26897374193_e736cd7115_o.jpg');*/
+}
+
+.hr1 {
+  background-color: white;
+  height: 1px;
+  width: 40%;   
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.hr2 {
+  background-color: white;
+  height: 1px;
+  width: 30%;   
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#city-state {
+  font-family: Arial Black;
+  font-size: 30px;
+}
+
+#country {
+  font-family: Arial Black;
+  font-size: 20px;
+}
+
+#temperature {
+  font-family: Courier, monospace;
+  font-size: 40px;
+} 
+
+#condition {
+  font-family: Arial Black;
+  font-size: 15px;
+}
+
+.pad-toggle {
+  font-family: Arial Black;
+  font-size: 15px;
+}
+
+.footer {
+  text-decoration: none;
+}
